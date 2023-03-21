@@ -1,5 +1,5 @@
 # Notepad
-Created a Simple Notepad using JAVA.
+Created a Simple Notepad using JAVA with its Diagrams.
 
 ## Features:
 - You can Save files using this notepad.
